@@ -1,2 +1,2 @@
 # Zhou-Forest-VSV-Chiapas
-Supplementary figures and files for Zhou, et al. 2026 study
+Figures, tables, supplementary figures and supplementary files for Ecosphere Zhou, et al. 2026 study
